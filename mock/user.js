@@ -60,7 +60,7 @@ const adminUsers = [
   }, {
     id: 2,
     username: 'shlepin',
-    password: '123456',
+    password: 'Rjhjk~df77',
     permissions: userPermission.DEVELOPER,
   }, {
     id: 3,
